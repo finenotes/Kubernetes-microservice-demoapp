@@ -1,6 +1,6 @@
-/root/projects/microservice-kubernetes-demo/microservice-kubernetes-demo-catalog/src/test/java/com/ewolff/microservice/catalog/RepositoryTest.java
-/root/projects/microservice-kubernetes-demo/microservice-kubernetes-demo-catalog/src/test/java/com/ewolff/microservice/catalog/CatalogTestApp.java
-/root/projects/microservice-kubernetes-demo/microservice-kubernetes-demo-catalog/src/test/java/com/ewolff/microservice/catalog/CatalogWebIntegrationTest.java
-/root/projects/microservice-kubernetes-demo/microservice-kubernetes-demo-catalog/src/test/java/com/ewolff/microservice/catalog/cdc/CatalogClient.java
-/root/projects/microservice-kubernetes-demo/microservice-kubernetes-demo-catalog/src/test/java/com/ewolff/microservice/catalog/cdc/CatalogConsumerDrivenContractTest.java
-/root/projects/microservice-kubernetes-demo/microservice-kubernetes-demo-catalog/src/test/java/com/ewolff/microservice/catalog/cdc/Item.java
+/root/projects/Kubernetes-microservice-demoapp/microservice-kubernetes-demo/microservice-kubernetes-demo-catalog/src/test/java/com/ewolff/microservice/catalog/cdc/CatalogConsumerDrivenContractTest.java
+/root/projects/Kubernetes-microservice-demoapp/microservice-kubernetes-demo/microservice-kubernetes-demo-catalog/src/test/java/com/ewolff/microservice/catalog/cdc/CatalogClient.java
+/root/projects/Kubernetes-microservice-demoapp/microservice-kubernetes-demo/microservice-kubernetes-demo-catalog/src/test/java/com/ewolff/microservice/catalog/RepositoryTest.java
+/root/projects/Kubernetes-microservice-demoapp/microservice-kubernetes-demo/microservice-kubernetes-demo-catalog/src/test/java/com/ewolff/microservice/catalog/CatalogWebIntegrationTest.java
+/root/projects/Kubernetes-microservice-demoapp/microservice-kubernetes-demo/microservice-kubernetes-demo-catalog/src/test/java/com/ewolff/microservice/catalog/cdc/Item.java
+/root/projects/Kubernetes-microservice-demoapp/microservice-kubernetes-demo/microservice-kubernetes-demo-catalog/src/test/java/com/ewolff/microservice/catalog/CatalogTestApp.java

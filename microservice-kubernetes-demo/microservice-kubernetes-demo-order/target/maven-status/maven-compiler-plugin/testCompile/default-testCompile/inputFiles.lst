@@ -1,6 +1,6 @@
-/root/projects/microservice-kubernetes-demo/microservice-kubernetes-demo-order/src/test/java/com/ewolff/microservice/order/customerstub/CustomerStub.java
-/root/projects/microservice-kubernetes-demo/microservice-kubernetes-demo-order/src/test/java/com/ewolff/microservice/order/logic/CatalogConsumerDrivenContractTest.java
-/root/projects/microservice-kubernetes-demo/microservice-kubernetes-demo-order/src/test/java/com/ewolff/microservice/order/logic/CustomerConsumerDrivenContractTest.java
-/root/projects/microservice-kubernetes-demo/microservice-kubernetes-demo-order/src/test/java/com/ewolff/microservice/order/catalogstub/CatalogStub.java
-/root/projects/microservice-kubernetes-demo/microservice-kubernetes-demo-order/src/test/java/com/ewolff/microservice/order/OrderTestApp.java
-/root/projects/microservice-kubernetes-demo/microservice-kubernetes-demo-order/src/test/java/com/ewolff/microservice/order/logic/OrderWebIntegrationTest.java
+/root/projects/Kubernetes-microservice-demoapp/microservice-kubernetes-demo/microservice-kubernetes-demo-order/src/test/java/com/ewolff/microservice/order/catalogstub/CatalogStub.java
+/root/projects/Kubernetes-microservice-demoapp/microservice-kubernetes-demo/microservice-kubernetes-demo-order/src/test/java/com/ewolff/microservice/order/OrderTestApp.java
+/root/projects/Kubernetes-microservice-demoapp/microservice-kubernetes-demo/microservice-kubernetes-demo-order/src/test/java/com/ewolff/microservice/order/logic/CustomerConsumerDrivenContractTest.java
+/root/projects/Kubernetes-microservice-demoapp/microservice-kubernetes-demo/microservice-kubernetes-demo-order/src/test/java/com/ewolff/microservice/order/customerstub/CustomerStub.java
+/root/projects/Kubernetes-microservice-demoapp/microservice-kubernetes-demo/microservice-kubernetes-demo-order/src/test/java/com/ewolff/microservice/order/logic/CatalogConsumerDrivenContractTest.java
+/root/projects/Kubernetes-microservice-demoapp/microservice-kubernetes-demo/microservice-kubernetes-demo-order/src/test/java/com/ewolff/microservice/order/logic/OrderWebIntegrationTest.java
